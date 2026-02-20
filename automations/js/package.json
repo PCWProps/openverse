@@ -5,8 +5,8 @@
   "version": "0.0.0",
   "dependencies": {
     "@octokit/rest": "21.1.1",
-    "axios": "^1.0.0",
-    "js-yaml": "^4.1.0",
+    "axios": "^1.13.5",
+    "js-yaml": "^4.1.1",
     "k6": "0.0.0",
     "nunjucks": "^3.2.4"
   },
